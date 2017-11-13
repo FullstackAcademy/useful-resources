@@ -23,6 +23,10 @@
 ## VS Code
 
 - [Keystroke cheat sheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+
+## Sublime
+
+- [Configuring Sublime Text 3 for Modern ES6 JS Projects](https://medium.com/beyond-the-manifesto/configuring-sublime-text-3-for-modern-es6-js-projects-6f3fd69e95de)
  
 ## Whiteboard Interviews
  
