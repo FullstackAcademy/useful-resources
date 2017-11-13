@@ -1,5 +1,9 @@
 # Useful resources for becoming a ninja fullstack developer!
 
+## JavaScript
+
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
 ## Express
 
 - [Express Starter](https://github.com/tanukid/express-starter)
