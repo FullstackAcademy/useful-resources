@@ -8,6 +8,8 @@
 
 ## Sequelize
 
+- [Sequelize: Getting Started](https://www.youtube.com/watch?v=6NKNfXtKk0c)
+
 ## React
 
  Made with ❤️ by cohort 1710
