@@ -1,5 +1,8 @@
 # Useful resources for becoming a ninja fullstack developer!
 
+## Web Development
+- [Check cross-browser compatibility for CSS, JavaScript and HTML ](https://caniuse.com/#home)
+
 ## JavaScript
 
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
@@ -15,6 +18,9 @@
 - [Sequelize: Getting Started](https://www.youtube.com/watch?v=6NKNfXtKk0c)
 
 ## React
+
+## CSS
+- [Specificity Calculator](https://specificity.keegan.st/)
 
 ## Command Line
 
