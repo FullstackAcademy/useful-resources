@@ -29,6 +29,7 @@
 ## VS Code
 
 - [Keystroke cheat sheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+- [Daniel's Config](https://gist.github.com/tanukid/4ba5d7021a2027362592cbac0a356f58)
 
 ## Sublime
 
