@@ -17,6 +17,10 @@
 
 - [Sequelize: Getting Started](https://www.youtube.com/watch?v=6NKNfXtKk0c)
 
+## Study Guides
+
+- [Express & Sequelize Boilerplate/Study Guide](https://github.com/ohagert1/Express-Sequelize-Boilerplate-Study-Guide)
+
 ## React
 
 ## CSS
