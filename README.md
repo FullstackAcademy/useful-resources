@@ -40,6 +40,9 @@
 
 - [Useful commands](https://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts)
 
+## Atom
+- [Atom command cheat sheet](https://gist.github.com/chrissimpkins/5bf5686bae86b8129bee)
+
 ## VS Code
 
 - [Keystroke cheat sheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
