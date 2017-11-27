@@ -4,6 +4,7 @@
 - [Check cross-browser compatibility for CSS, JavaScript and HTML ](https://caniuse.com/#home)
 - [Modern front-end Cheatsheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 - [Check out what your favorite company's stack is](https://stackshare.io/)
+- [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
 
 ## JavaScript
 
@@ -11,6 +12,8 @@
 - [Regular Expressions Demystified](https://medium.freecodecamp.org/regular-expressions-demystified-regex-isnt-as-hard-as-it-looks-617b55cf787)
 - [ECMAScript compatibility table](https://kangax.github.io/compat-table/es6/)
 
+## GIT
+- [HubSpot's Intro to Git/GitHub including Pull Requests & Merging](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 ## Express
 
@@ -45,7 +48,7 @@
 ## Sublime
 - [Keystroke cheat sheet](http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/)
 - [Configuring Sublime Text 3 for Modern ES6 JS Projects](https://medium.com/beyond-the-manifesto/configuring-sublime-text-3-for-modern-es6-js-projects-6f3fd69e95de)
- 
+
 ## Whiteboard Interviews
  - [Code Wars](www.codewars.com)
  - [Geeks for Geeks](http://www.geeksforgeeks.org/)
