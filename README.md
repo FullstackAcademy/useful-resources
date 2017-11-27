@@ -21,8 +21,8 @@
 ## Sequelize
 
 - [Sequelize: Getting Started](https://www.youtube.com/watch?v=6NKNfXtKk0c)
-- [Sequelize Reference by @tmkelly28](https://github.com/tmkelly28/sequelize-reference)
-- [Short but useful Sequelize Querying cheatsheet](https://blog.cloudboost.io/docs-for-the-sequelize-docs-querying-edition-aed4bd1273f0)
+- [Sequelize reference by @tmkelly28](https://github.com/tmkelly28/sequelize-reference)
+- [Short but useful Sequelize querying cheatsheet](https://blog.cloudboost.io/docs-for-the-sequelize-docs-querying-edition-aed4bd1273f0)
 
 ## Study Guides
 
@@ -44,9 +44,10 @@
 
 ## Sublime
 - [Keystroke cheat sheet](http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/)
-- [Configuring Sublime Text 3 for Modern ES6 JS Projects](https://medium.com/beyond-the-manifesto/configuring-sublime-text-3-for-modern-es6-js-projects-6f3fd69e95de)
+- [Configuring Sublime Text 3 for modern ES6 JS projects](https://medium.com/beyond-the-manifesto/configuring-sublime-text-3-for-modern-es6-js-projects-6f3fd69e95de)
  
 ## Whiteboard Interviews
+ - [JavaScript implementation of popular algorithms and data structures](https://github.com/mgechev/javascript-algorithms) 
  - [Code Wars](www.codewars.com)
  - [Geeks for Geeks](http://www.geeksforgeeks.org/)
  - [Interview Cake](https://www.interviewcake.com/)
