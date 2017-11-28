@@ -40,6 +40,7 @@
 ## Command Line
 
 - [Useful commands](https://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts)
+- Get your IP address in Mac OSX/Unix: `ifconfig | grep 'inet '`
 
 ## Atom
 - [Atom command cheat sheet](https://gist.github.com/chrissimpkins/5bf5686bae86b8129bee)
