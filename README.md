@@ -1,10 +1,13 @@
 # Useful resources for becoming a ninja fullstack developer!
 
+Made with ❤️ by cohort 1710
+
 ## Web Development
 - [Check cross-browser compatibility for CSS, JavaScript and HTML ](https://caniuse.com/#home)
 - [Modern front-end Cheatsheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 - [Check out what your favorite company's stack is](https://stackshare.io/)
 - [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
+- [What happens when you type a URL into a web browser](http://edusagar.com/articles/view/70/What-happens-when-you-type-a-URL-in-browser)
 
 ## JavaScript
 
@@ -61,6 +64,3 @@
  - [Coder Byte](https://coderbyte.com/)
  - [Hacker Rank](https://www.hackerrank.com/)
  - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=8BB0KRJ073A8CZXTW5PP&dpID=41XgSiYW7dL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=detail)
-
-
- Made with ❤️ by cohort 1710
