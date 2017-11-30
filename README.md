@@ -33,6 +33,7 @@
 - [Express & Sequelize Boilerplate/Study Guide](https://github.com/ohagert1/Express-Sequelize-Boilerplate-Study-Guide)
 
 ## React
+- [React Casts - Series of React tutorials by Cassio](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ)
 
 ## CSS
 - [Specificity Calculator](https://specificity.keegan.st/)
