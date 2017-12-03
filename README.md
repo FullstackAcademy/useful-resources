@@ -34,7 +34,12 @@
 
 ## React
 - [React Casts - Series of React tutorials by Cassio](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ)
+- [React Dev Tool Google Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
+## Redux
+- [Getting Started with Redux (free course by Dan Abramov)](https://egghead.io/courses/getting-started-with-redux)
+- [Building React Applications with Idiomatic Redux (free course by Dan Abramov)](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+- [Redux Dev Tool Chrome Extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
 ## CSS
 - [Specificity Calculator](https://specificity.keegan.st/)
 
@@ -56,6 +61,7 @@
 - [Configuring Sublime Text 3 for Modern ES6 JS Projects](https://medium.com/beyond-the-manifesto/configuring-sublime-text-3-for-modern-es6-js-projects-6f3fd69e95de)
 
 ## Whiteboard Interviews
+ - [algoexpert.io (Made by FSA alumni)](https://www.algoexpert.io/product)
  - [JavaScript implementation of popular algorithms and data structures](https://github.com/mgechev/javascript-algorithms) 
  - [Code Wars](www.codewars.com)
  - [Geeks for Geeks](http://www.geeksforgeeks.org/)
