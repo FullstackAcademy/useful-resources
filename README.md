@@ -40,6 +40,11 @@
 - [Getting Started with Redux (free course by Dan Abramov)](https://egghead.io/courses/getting-started-with-redux)
 - [Building React Applications with Idiomatic Redux (free course by Dan Abramov)](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 - [Redux Dev Tool Chrome Extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
+
+## Redux Middleware
+- [redux-freeze: avoid accidental in-place mutations of state](https://github.com/buunguyen/redux-freeze)
+- [redux-saga: manage redux side-effects with es6 generators](https://github.com/redux-saga/redux-saga)
+- [redux-promise-middleware: A thunk alternative with more bells and whistles](https://github.com/pburtchaell/redux-promise-middleware)
 ## CSS
 - [Specificity Calculator](https://specificity.keegan.st/)
 
