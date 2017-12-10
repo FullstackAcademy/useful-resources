@@ -36,7 +36,7 @@
 - [React Casts - Series of React tutorials by Cassio](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ)
 - [React Dev Tool Google Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 - [create-react-app: Create React apps with no build configuration.](https://github.com/facebookincubator/create-react-app)
-- [Find the perfect React starter template](https://www.andrewhfarmer.com/starter-project/)
+- [Find the perfect React starter template](https://www.javascriptstuff.com/react-starter-projects/)
 
 ## Redux
 - [Getting Started with Redux (free course by Dan Abramov)](https://egghead.io/courses/getting-started-with-redux)
