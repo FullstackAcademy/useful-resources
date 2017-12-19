@@ -49,7 +49,7 @@
 - [redux-promise-middleware: A thunk alternative with more bells and whistles](https://github.com/pburtchaell/redux-promise-middleware)
 ## CSS
 - [Specificity Calculator](https://specificity.keegan.st/)
-- [Tool for making clip-paths quickly with CSS!](http://bennettfeely.com/clippy/)
+- [Tool for making clip-paths quickly with CSS](http://bennettfeely.com/clippy/)
 
 ## Command Line
 
