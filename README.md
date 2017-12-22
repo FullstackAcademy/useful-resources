@@ -37,6 +37,7 @@
 - [React Dev Tool Google Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 - [create-react-app: Create React apps with no build configuration.](https://github.com/facebookincubator/create-react-app)
 - [Find the perfect React starter template](https://www.javascriptstuff.com/react-starter-projects/)
+- [Formik - Build forms in React, without the tears 😭](https://github.com/jaredpalmer/formik)
 
 ## Redux
 - [Getting Started with Redux (free course by Dan Abramov)](https://egghead.io/courses/getting-started-with-redux)
